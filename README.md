@@ -1,4 +1,4 @@
-jessicaharllee.com
-==================
+ekologos.siteleaf.com
+=====================
 
-http://jessicaharllee.com
+Siteleaf theme for ekologos site
